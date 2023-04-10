@@ -1,0 +1,19 @@
+html {
+    background-image: url(https://kartinkin.net/pics/uploads/posts/2022-08/1660417223_17-kartinkin-net-p-fon-dlya-storis-sportivnii-krasivo-20.jpg);
+}
+h1, h2, h3, ul {
+    text-align: center;
+    color: aliceblue;
+}
+h2 {
+    font-family: 'Rubik Wet Paint', cursive; font-size: 35px;
+}
+h3 {
+    font-family: 'Lobster', cursive;
+}
+ul {
+    font-family: 'Shantell Sans', cursive;
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+}
