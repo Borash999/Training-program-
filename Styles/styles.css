@@ -17,3 +17,6 @@ ul {
 li {
     list-style-type: none; /* Убираем маркеры */
 }
+.sd {
+clear: both; text-align: right;
+}
